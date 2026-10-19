@@ -1,0 +1,10 @@
+langgraph
+langchain
+langsmith
+ipykernel
+ollama
+dotenv
+langchain_groq
+langchain_community
+pygraphviz
+matplotlib

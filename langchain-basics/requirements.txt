@@ -1,0 +1,4 @@
+langchain-openai
+langchain_core
+dotenv
+langchain_google_firestore
